@@ -1,5 +1,0 @@
-ECHO 处于打开状态。
-/build/ 
-/dist/ 
-*.tmp 
-!important.log 
