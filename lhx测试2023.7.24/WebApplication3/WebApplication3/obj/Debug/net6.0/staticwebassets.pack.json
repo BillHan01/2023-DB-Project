@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\5_0.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\5_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\5_1.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\5_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\5_2.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\5_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\5_3.png",
+      "PackagePath": "staticwebassets\\commodityImage\\5_3.png"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\6_0.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\6_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\6_1.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\6_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\7_0.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\7_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\7_1.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\7_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\7_2.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\7_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\commodityImage\\7_3.jpg",
+      "PackagePath": "staticwebassets\\commodityImage\\7_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\detail\\1.txt",
+      "PackagePath": "staticwebassets\\detail\\1.txt"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\storeImage\\111_1.jpg",
+      "PackagePath": "staticwebassets\\storeImage\\111_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\storeImage\\111_2.jpg",
+      "PackagePath": "staticwebassets\\storeImage\\111_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\storeImage\\123_1.jpg",
+      "PackagePath": "staticwebassets\\storeImage\\123_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\storeImage\\123_2.jpg",
+      "PackagePath": "staticwebassets\\storeImage\\123_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\storeImage\\123_3.jpg",
+      "PackagePath": "staticwebassets\\storeImage\\123_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\storeLicenseImg\\111.jpg",
+      "PackagePath": "staticwebassets\\storeLicenseImg\\111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\16597\\Desktop\\WebApplication3\\WebApplication3\\wwwroot\\storeLicenseImg\\123.jpg",
+      "PackagePath": "staticwebassets\\storeLicenseImg\\123.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication3.props",
+      "PackagePath": "build\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication3.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication3.props",
+      "PackagePath": "buildTransitive\\WebApplication3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
