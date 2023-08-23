@@ -1,0 +1,9 @@
+-----支付宝微服务使用说明-----
+进入AlipayServe目录，在命令行工具输入 node app.js，即可启动服务
+所需依赖项：npm install alipay-sdk cors express
+
+使用充值功能，需要启动该微服务
+充值功能在用户个人信息页面，
+支付宝账号 ihbifl1217@sandbox.com
+登录密码 111111
+支付密码 111111
