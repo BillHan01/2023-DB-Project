@@ -3,9 +3,14 @@ import DetailPage from '../src/components/StoreSystem/DetailPage.vue'; // 导入
 import ViewPage from '../src/components/StoreSystem/ViewPage.vue'; // 导入相应的路由组件
 import UploadCommodityPage from '../src/components/StoreSystem/UploadCommodityPage.vue'; // 导入相应的路由组件
 import StorePage from '../src/components/StoreSystem/StorePage.vue'
+import AdministratorPage from '../src/components/AdministratorSystem/AdministratorPage.vue';
 import UpdateCommodityPageVue from '@/components/StoreSystem/UpdateCommodityPage.vue';
 import VerificationPage from '@/components/StoreSystem/VerificationPage.vue';
 import RefundPage from '@/components/StoreSystem/RefundPage.vue'
+import OperatePage from '@/components/AdministratorSystem/OperatePage.vue';
+import StoreCommodityPage from '@/components/AdministratorSystem/StoreCommodityPage.vue'
+import StoreIndentPage from '@/components/AdministratorSystem/StoreIndentPage.vue'
+import IndentDetailPage from '@/components/AdministratorSystem/IndentDetailPage.vue';
 import LoginPage from '../src/components/LoginPage.vue';
 import IDLoginPage from '../src/components/IDLoginPage.vue'
 import PhoneLoginPage from '../src/components/PhoneLoginPage.vue'
@@ -127,6 +132,36 @@ const router = createRouter({
                     path: '/refund',
                     component: RefundPage
                 }
+            ]
+        },
+        {
+            path: '/administrator',
+            component: AdministratorPage,
+            children: [
+                {
+                    path: '/operate',
+                    component: OperatePage
+                },
+                {
+                    path: '/commodity',
+                    component: StoreCommodityPage,
+                    meta: {
+                        keepAlive: true
+                    }
+                },
+                {
+                    path: '/indent',
+                    component: StoreIndentPage
+                },
+                {
+                    path: '/indDetail',
+                    component: IndentDetailPage
+                },
+                // {
+                //     path: '/refund',
+                //     component: RefundPage
+                // },
+
             ]
         },
         {

@@ -27,7 +27,7 @@
       @click="toFindPassword"
       >找回密码</el-button>
     </div>
-
+  <el-button type="primary" @click="router.push('/administrator')">管理员登录</el-button>
   </div>
 </template>
 
