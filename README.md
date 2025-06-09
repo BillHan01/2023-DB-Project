@@ -1,5 +1,5 @@
 # 2023-DB-Project
-This is the repository for our database principle curriculum design team project. 
+This project was completed as part of the Database Principles and Applications course at the School of Software Engineering, Tongji University, taught by Prof. Shijin Yuan. The platform supports merchant and product management, consumer-side browsing, purchasing, and returns, and expiration-aware dynamic pricing.
 
 ## Introduction to our project
 
